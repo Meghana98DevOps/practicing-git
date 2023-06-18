@@ -23,3 +23,5 @@ const string = prompt('Enter a string: ');
 const value = checkPalindrome(string);
 
 console.log(value);
+
+//////
